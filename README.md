@@ -62,5 +62,7 @@ confluentinc/cp-zookeeper:5.1.2*
 ## Links Úteis / Referências
 Ygor Polvere - Contêiner Kafka - https://medium.com/@ygorppolvere/kafka-com-docker-dedbbe9eff76  
 Docker Configuration - https://docs.confluent.io/platform/current/installation/docker/config-reference.html  
+DotNet Core Central - https://www.youtube.com/watch?v=A4Y7z6wFRk0  
+
 
 
